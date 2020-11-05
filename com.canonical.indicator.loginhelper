@@ -1,0 +1,7 @@
+[Indicator Service]
+Name=indicator-loginhelper
+ObjectPath=/com/canonical/indicator/loginhelper
+
+[desktop_greeter]
+ObjectPath=/com/canonical/indicator/loginhelper/greeter
+
