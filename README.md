@@ -11,3 +11,6 @@ https://github.com/sneetsher/mysystemindicator
 
 This is a raw minimum "working" example. I will update it as I go along.
 Any contribution is welcome.
+
+## Dependencies
+notify-osd
